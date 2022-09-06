@@ -1,0 +1,22 @@
+/node_modules
+<<<<<<< HEAD
+=======
+/public/build
+>>>>>>> ae799c982f6ba3773d61b0bdf0bd861c2aa844c4
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+<<<<<<< HEAD
+=======
+auth.json
+>>>>>>> ae799c982f6ba3773d61b0bdf0bd861c2aa844c4
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
